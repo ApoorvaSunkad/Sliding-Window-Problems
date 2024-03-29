@@ -50,7 +50,7 @@ Constraints:
 */
 
 //T.C = O(N)
-//S.C = O(1)
+//S.C = O(N)
 
 #include<bits/stdc++.h>
 using namespace std;
